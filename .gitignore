@@ -1,2 +1,7 @@
 electoral-system/Config/firebase-credentials.json
-electoral-system/electoral-system/appsettings.Development.json
+electoral-system/appsettings.Development.json
+
+.idea/
+
+bin/
+obj/
