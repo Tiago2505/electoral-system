@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("electoral-system")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdf355dad86817a8ae0f2ec9d4ae1b4a8f305fdc")]
 [assembly: System.Reflection.AssemblyProductAttribute("electoral-system")]
 [assembly: System.Reflection.AssemblyTitleAttribute("electoral-system")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,5 +1,7 @@
-var builder = WebApplication.CreateBuilder(args);
+using electoral_system.Services;
 
+var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddSingleton<FirebaseServices>();
 // Add services to the container.
 
 builder.Services.AddControllers();
