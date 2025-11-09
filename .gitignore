@@ -1,6 +1,7 @@
 electoral-system/Config/firebase-credentials.json
 electoral-system/appsettings.Development.json
-electoral-system/Properties/launchSettings.json
+**/Properties/launchSettings.json
+
 .idea/
 
 bin/
